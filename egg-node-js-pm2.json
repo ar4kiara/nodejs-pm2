@@ -6,7 +6,7 @@
     },
     "exported_at": "2024-03-19T00:00:00+00:00",
     "name": "Node.js with PM2",
-    "author": "ar4kiara",
+    "author": "ar4kiara@gmail.com",
     "description": "Node.js egg with PM2 process manager, Python3, pip3, and Chromium support",
     "features": null,
     "docker_images": {
